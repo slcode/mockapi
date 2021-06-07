@@ -1,8 +1,8 @@
 {
   "Try": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+    "title": "title 2",
+    "views": "11",
+    "published": "a lot",
+    "createdAt": "at 6"
   }
 }
